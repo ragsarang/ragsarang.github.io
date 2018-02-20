@@ -1,2 +1,2 @@
 # ragsarang.github.io
-simple blog
+simple blog for ideas
